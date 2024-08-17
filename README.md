@@ -1,1 +1,1 @@
-# Java_DSA_takeuforward_strivers_sheet
+# Strivers-A2Z-DSA-Java
